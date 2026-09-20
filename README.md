@@ -19,3 +19,4 @@ visita il sito: non c'è nessun database o backend.
 
 Il sito è pensato per essere pubblicato su Cloudflare Pages come sito statico:
 nessun build command, directory di output = radice del repository.
+# egi-vegan-kitchen-site
